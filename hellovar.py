@@ -1,0 +1,2 @@
+var = "world"
+print(var)
